@@ -97,3 +97,22 @@
 2026-10-28 11:56:31.638: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-10-28 11:56:31.638: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-10-28 12:52:03.731: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-04 09:29:04.310: [INFO] CurrentProfilePath: C:\Users\Julio\Desktop\1DAW\entornosDeDesarrollo\Practica_RA2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-04 09:29:04.310: [INFO] Profiles total count: 1
+2026-11-04 09:29:04.310: [INFO] Profile: name=Perfil 1 path=C:\Users\Julio\Desktop\1DAW\entornosDeDesarrollo\Practica_RA2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-28T11:56:37.406Z
+2026-11-04 09:29:04.310: [INFO] LastUsedProfileDir: C:\Users\Julio\Desktop\1DAW\entornosDeDesarrollo\Practica_RA2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-04 09:29:04.310: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Julio\Desktop\1DAW\entornosDeDesarrollo\Practica_RA2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-28T11:56:37.406Z
+2026-11-04 09:29:04.310: [INFO] OnDoneLoading sync enabled: 0
+2026-11-04 09:29:04.310: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-04 09:29:04.310: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-04 09:29:04.310: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-04 09:30:08.071: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-05 07:27:55.795: [INFO] CurrentProfilePath: C:\Users\Julio\Desktop\1DAW\entornosDeDesarrollo\Practica_RA2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-05 07:27:55.795: [INFO] Profiles total count: 1
+2026-11-05 07:27:55.795: [INFO] Profile: name=Perfil 1 path=C:\Users\Julio\Desktop\1DAW\entornosDeDesarrollo\Practica_RA2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-04T09:29:25.353Z
+2026-11-05 07:27:55.795: [INFO] LastUsedProfileDir: C:\Users\Julio\Desktop\1DAW\entornosDeDesarrollo\Practica_RA2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-05 07:27:55.795: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Julio\Desktop\1DAW\entornosDeDesarrollo\Practica_RA2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-04T09:29:25.353Z
+2026-11-05 07:27:55.795: [INFO] OnDoneLoading sync enabled: 0
+2026-11-05 07:27:55.795: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-05 07:27:55.795: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-05 07:27:55.795: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
